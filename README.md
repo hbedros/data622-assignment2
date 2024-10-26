@@ -1,12 +1,11 @@
-# DATA 622 - Assignment 1 Project Overview
+# DATA 622 - Assignment 2 Project Overview
 
 ### Collaborators:
 Haig Bedros, Noori Selina, Julia Ferris, Matthew Roland
 
-This project focuses on analyzing two datasets, **Dataset 1** and **Dataset 2**, to understand various factors impacting student performance. Both datasets include numerical and categorical variables related to student behavior, performance, and parental involvement.
+This project focuses on analyzing a dataset to understand various factors impacting student performance. The dataset includes numerical and categorical variables related to student behavior, performance, and parental involvement.
 
-- **Dataset 1** contains information such as hours studied, attendance, parental involvement, and exam scores, while also including categorical variables like teacher quality and school type.
-- **Dataset 2** supplements Dataset 1 by providing additional information about student backgrounds and motivations, allowing for more comprehensive analysis.
+- The dataset contains information such as hours studied, attendance, parental involvement, and exam scores, along with categorical variables like teacher quality and school type.
 
 We use **machine learning models** such as **Random Forest Regressor** and **XGBoost** to predict exam scores based on student features. These models help in identifying key factors that most influence student performance and allow us to make predictive inferences. Exploratory Data Analysis (EDA) is also performed to find correlations and insights between different variables.
 
