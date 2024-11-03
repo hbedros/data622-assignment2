@@ -1,4 +1,3 @@
-```markdown
 # DATA 622 - Assignment 2 Project Overview
 
 ### Collaborators:
@@ -6,8 +5,6 @@ Haig Bedros, Noori Selina, Julia Ferris, Matthew Roland
 
 ### Project Overview
 In HW2, our focus was on analyzing a student performance dataset, specifically `dataset1` from HW1, to understand key factors influencing exam scores. We applied machine learning techniques, including **Random Forest Regression** and **XGBoost**, to build predictive models based on features like hours studied, attendance, and parental involvement. Our goal was to identify the most impactful variables and make predictive inferences regarding student performance.
-
----
 
 # Team Collaboration Guidelines for Python Project
 
